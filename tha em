@@ -1,6 +1,6 @@
 local check = {
   [2753915549] = "https://raw.githubusercontent.com/X2Duc/RxDHub/main/DitmeSea1",
-  [3102144307] = "https://raw.githubusercontent.com/X2Duc/rxdhub12/main/tha%20em",
+  [3102144307] = "https://raw.githubusercontent.com/X2Duc/duc/main/dsadada",
  
 }
 if check[game.PlaceId] then 
